@@ -7,8 +7,8 @@ import os
 from torch.utils.data import Dataset, DataLoader
 
 # Constants
-ROOT_DIR = "/traffic_sign/image_data"
-CSV_FILE = "traffic_sign/image_data/annotations.csv"
+ROOT_DIR = "/traffic_sign/data"
+CSV_FILE = "traffic_sign/data/annotations.csv"
 MODEL_SAVE_PATH = "custom_object_detector.pth"
 
 

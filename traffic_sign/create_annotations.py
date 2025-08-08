@@ -10,7 +10,7 @@ import glob
 
 def create_annotations_csv():
 
-    class_dirs = glob.glob("image_data/*/")
+    class_dirs = glob.glob("data/*/")
     class_dirs.sort()
 
     all_annotations = []

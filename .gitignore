@@ -8,3 +8,7 @@ traffic_sign/image_data
 .mypy_cache/
 
 *.pyc
+
+*/data/
+
+*.mp4
