@@ -1,0 +1,10 @@
+traffic_sign/image_data
+
+
+*.DS_Store
+
+.venv/
+
+.mypy_cache/
+
+*.pyc
